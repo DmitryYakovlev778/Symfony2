@@ -1,0 +1,46 @@
+{
+  "id":"B0A48AA1-FD67-4423-A8DF-7C6B38AB7930",
+  "source":"96D743D9-E838-4BCF-BF26-1489FE33873E",
+  "syncItems":[
+    {
+      "id":"A4EC2DE6-48AF-42A4-BE97-6B2C04F61ACC",
+      "syncBag":"B0A48AA1-FD67-4423-A8DF-7C6B38AB7930",
+      "grade":"A",
+      "currentData":{
+      "id":"F6373240-16FF-4F0A-B677-E9961B806614",
+      "status":"0",
+      "created":"2014-09-07T12:41:04+00:00",
+      "dataString0":"http://example.com/file.html",
+      "dataString1":"2014-02-07T12:40:14+00:00",
+      "dataString2":"ExampleCategory",
+      "dataString3":"1234AB",
+      "dataString4":"12",
+      "dataString5":"0010450675234"
+    },
+    "historyData":[
+    {
+      "id":"F6373240-16FF-4F0A-B677-E9961B806614",
+      "status":"-1",
+      "created":"2014-09-07T12:40:14+00:00",
+      "dataString0":"http://example.com/file.html",
+      "dataString1":"2014-02-07T12:40:14+00:00",
+      "dataString2":"ExampleCategory",
+      "dataString3":"1234AB",
+      "dataString4":"12.00",
+      "dataString5":"0010450675234"
+    },
+    {
+      "id":"F6373240-16FF-4F0A-B677-E9961B806614",
+      "status":"-1",
+      "created":"2014-09-07T12:39:10+00:00",
+      "dataString0":"http://example.com/file.html",
+      "dataString1":"2014-02-07T12:40:14+00:00",
+      "dataString2":"ExampleCategory",
+      "dataString3":"1234 AB ",
+      "dataString4":"",
+      "dataString5":"0010450675234"
+    }
+    ]
+    }
+  ]
+}

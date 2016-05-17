@@ -1,0 +1,21 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+
+    {{ form_start(form) }}
+    <table border="1" style="width:100%">
+        <tr style="background-color: #6c6159; color: white">
+            <td>Data</td>
+            <td>Contents</td>
+            <td>Optional?</td>
+            <td>Limits</td>
+        </tr>
+        <tr>
+            <td>{{ json }}</td>
+            <td>A string representing an URL</td>
+            <td>No</td>
+            <td>It must be a URL</td>
+        </tr>
+    </table>
+    {{ form_end(form) }}
+{% endblock %}
